@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Debankit Bhattacharya
-description: Debu | Indian Institute Of Technology Madras | motto
+description: Debu | Indian Institute Of Technology Madras | Innovate!
 
 baseurl: /debbh326 #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,14 +13,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+twitter: "/debbh326"
 linkedin: "/debankit-bhattacharya-1bb314253/"
 stackoverflow: "#"
-github: ""
+github: "debbh326"
 researchgate: "#"
 orcid: "#"
 quora: "/Debankit-Bhattacharya-1"
-instagram: "/debu_326/"
+instagram: "debu_326/"
 facebook: ""
 
 
