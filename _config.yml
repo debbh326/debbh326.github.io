@@ -14,13 +14,13 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "https://www.linkedin.com/in/debankit-bhattacharya-1bb314253/"
+linkedin: "/debankit-bhattacharya-1bb314253/"
 stackoverflow: "#"
-github: "https://github.com/zivhub/monophase"
+github: ""
 researchgate: "#"
 orcid: "#"
-quora: "https://www.quora.com/profile/Debankit-Bhattacharya-1"
-instagram: "https://www.instagram.com/debu_326/"
+quora: "/Debankit-Bhattacharya-1"
+instagram: "/debu_326/"
 facebook: ""
 
 
