@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Debankit Bhattacharya
+description: Debu | Indian Institute Of Technology Madras | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /debbh326 #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: debbh326@gmail.com
 
 # Pagination
 paginate: 4
@@ -14,14 +14,14 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/debankit-bhattacharya-1bb314253/"
 stackoverflow: "#"
-github: "#"
+github: "https://github.com/zivhub/monophase"
 researchgate: "#"
 orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+quora: "https://www.quora.com/profile/Debankit-Bhattacharya-1"
+instagram: "https://www.instagram.com/debu_326/"
+facebook: ""
 
 
 # Markdown
